@@ -2,4 +2,4 @@
 
 ## 1st Year, Metullurgy ,IIT Kgp
 
-## Java, JavaScript
+## Java, C++
